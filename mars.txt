@@ -3,4 +3,4 @@ cold and dry, but my name is tomi
 I am taking a class in bioinformatics data skills.
 I love python
 Lets consider taking python in venus
-
+Lets consider taking R in venus
