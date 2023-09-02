@@ -1,0 +1,4 @@
+*stuffs we dont want to track
+*Rhistory
+*.dat
+results/
