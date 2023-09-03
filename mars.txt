@@ -4,3 +4,4 @@ I am taking a class in bioinformatics data skills.
 I love python
 Lets consider taking python in venus
 Lets consider taking R in venus
+Here is a conflicting edit. ha, ha , ha.
